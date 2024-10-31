@@ -1,0 +1,82 @@
+/* Your styles here */
+
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    color: #393d41;
+}
+
+h1, h4{
+    line-height: 1.5;
+    color: #25A2C3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    margin-bottom: 1rem;
+    font-size: 30px;
+}
+
+.logo{
+    width: 15%;
+    padding: 1.8rem;
+}
+
+header{
+    background-color: #000000;
+}
+
+.article1{
+    background-image: url(/assets/images/banner.jpg);
+    background-position: top;
+    background-size: cover;
+    height: 65vh;
+
+}
+
+.nav1{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top: 25vh;
+}
+
+.bottone {
+    margin-top: 1rem;
+    border-radius: 5px;
+    background-color: #F14C2F;
+    border-width: 0;
+    color: white;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.notebook{
+    margin: 5rem 5rem 5rem 10rem;
+    border-radius: 50%;
+}
+
+.imagenotebook, .list{
+    display: inline-block;
+
+}
+
+.list p, .list h4{
+    text-align: start;
+    line-height: 3em;
+}
+
+
+.imgtext{
+    text-align: center;
+    margin: 5rem 8rem;
+}
+
+.list{
+    margin-top: 3rem;
+    margin-left: 3rem;
+    vertical-align: top;
+}
