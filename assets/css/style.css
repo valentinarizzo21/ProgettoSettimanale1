@@ -67,14 +67,110 @@ header{
 
 .list p, .list h4{
     text-align: start;
-    line-height: 3em;
+    line-height: 2.5em;
 }
 
 .imgtext{
     text-align: center;
-    margin: 3em 3em;
+    margin: 8em 3em 8em 3em;
 }
 
 .list{
     vertical-align: top;
+}
+
+.redpar{
+    background-color: #e22d0f;
+    height: 35vh;
+    text-align: center;
+    color: #ffffff;
+    line-height: 4rem;
+    padding-top: 10vh;
+    font-size: xx-large;
+
+}
+
+.titlesecondsection {
+    font-weight: bold;
+    
+}
+
+.parasecondsection{
+    font-style: italic;
+}
+
+.mariorossi{
+    font-size: 25px;
+}
+.ceoepicode{
+    line-height: 0.1rem;
+    font-size: small;
+}
+
+.blocco1, .blocco2, .blocco3{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 350px;
+    height: auto;
+    border: 1px solid #dee1e3;
+    border-radius: 1%;
+    vertical-align: top;
+    margin: 10px;
+    font-size: medium;
+
+}
+
+.contenitori{
+    text-align: center;
+    display: inline-block;
+    margin: 3rem 12rem 3rem 12rem;
+}
+
+.blocco1 img, .blocco2 img, .blocco3 img{
+    width: 100%;
+    height: 232px;
+    width: 348px;
+}
+
+.blocco1 p, .blocco2 p, .blocco3 p{
+    padding-bottom: 1rem;
+}
+
+.footer{
+    background-color: #25a2c3;
+    height: 60vh;
+    text-align: center;
+}
+
+.finaltitle{
+    font-weight: bold;
+    font-size: 42px;
+    color: #ffffff;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+
+.contatti{
+    color: #ffffff;
+    text-align: left;
+    padding-left: 44%;
+    padding-right: 42%;
+    font-size: small;
+}
+
+.link1{
+    color: white;
+}
+
+.ionicons{
+    color: #25a2c3;
+    background-color: #ffffff;
+    border-radius: 5%;
+    
+}
+
+.material-symbols-outlined{
+    font-size: 14px;
+    background-color: #ffffff;
+    color: #25a2c3;
 }
