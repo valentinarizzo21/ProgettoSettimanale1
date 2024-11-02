@@ -49,7 +49,7 @@ header {
 .bottone {
     margin-top: 1rem;
     border-radius: 5px;
-    background-color: #F14C2F;
+    background-color: #f04c2f;
     border-width: 0;
     color: white;
     padding: 0.5rem 1rem 0.5rem 1rem;
@@ -150,7 +150,7 @@ header {
 
 .footer {
     background-color: #25a2c3;
-    height: 30vh;
+    height: 40vh;
     text-align: center;
 }
 
@@ -178,7 +178,14 @@ header {
     color: #25a2c3;
     background-color: #ffffff;
     border-radius: 5%;
+    vertical-align: middle;
 
+}
+
+.finalline{
+    width: 200px;
+    margin: 2rem auto;
+    text-align: center;
 }
 
 .material-symbols-outlined {
