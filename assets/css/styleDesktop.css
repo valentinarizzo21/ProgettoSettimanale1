@@ -60,6 +60,7 @@ header{
     border-radius: 50%;
 }
 
+
 .imagenotebook, .list{
     display: inline-block;
 
@@ -72,7 +73,8 @@ header{
 
 .imgtext{
     text-align: center;
-    margin: 8em 3em 8em 3em;
+    margin: 5em 3em 5em 3em;
+    
 }
 
 .list{
